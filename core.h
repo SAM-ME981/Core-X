@@ -8,3 +8,5 @@ using namespace std;
 void call();
 void showboard(string);
 void countPieces(string);
+void abort(string);
+void draw(string);
